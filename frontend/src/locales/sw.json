@@ -1,0 +1,19 @@
+{
+  "field.status.healthy": "Mzuri",
+  "field.status.caution": "Tahadhari",
+  "field.status.urgent": "Dharura",
+  "cause.water_stress": "Uhaba wa Maji",
+  "cause.nutrient_deficiency": "Upungufu wa Virutubisho",
+  "cause.pest_pressure": "Wadudu Waharibifu",
+  "cause.unknown": "Tatizo Halijulikani",
+  "action.check_field": "Chunguza shamba langu",
+  "action.report_problem": "Ripoti tatizo",
+  "action.escalate": "Peleka kwa Mtaalamu",
+  "symptom.yellowing": "Majani kuwa ya njano",
+  "symptom.wilting": "Kunyauka",
+  "symptom.stunted": "Kudumaa",
+  "symptom.holes": "Mashimo kwenye majani",
+  "symptom.powder": "Unga mweupe kwenye majani",
+  "symptom.patches": "Madoa ya kahawia",
+  "symptom.other": "Mengineyo"
+}
