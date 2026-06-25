@@ -1,0 +1,19 @@
+{
+  "field.status.healthy": "Healthy",
+  "field.status.caution": "Caution",
+  "field.status.urgent": "Urgent",
+  "cause.water_stress": "Water Stress",
+  "cause.nutrient_deficiency": "Nutrient Deficiency",
+  "cause.pest_pressure": "Pest Pressure",
+  "cause.unknown": "Unknown Issue",
+  "action.check_field": "Check my field",
+  "action.report_problem": "Report a problem",
+  "action.escalate": "Escalate to Agronomist",
+  "symptom.yellowing": "Leaves yellowing",
+  "symptom.wilting": "Wilting",
+  "symptom.stunted": "Stunted growth",
+  "symptom.holes": "Holes in leaves",
+  "symptom.powder": "White powder on leaves",
+  "symptom.patches": "Brown patches",
+  "symptom.other": "Other"
+}
