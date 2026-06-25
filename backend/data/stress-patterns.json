@@ -1,0 +1,57 @@
+[
+  {
+    "id": "wp_001",
+    "cause": "water_stress",
+    "symptoms": ["yellowing from tip", "wilting", "leaf curl", "yellowing"],
+    "satellite_signal": "declining NDVI",
+    "soil_signal": "any",
+    "rainfall_signal": "gap > 10 days",
+    "recommendation": "Irrigate immediately, prioritise lower sections of field",
+    "organic_option": "Mulch around base to retain moisture",
+    "cost_saving": "Avoid unnecessary fertilizer — saves KES 1,200–2,000"
+  },
+  {
+    "id": "nd_001",
+    "cause": "nutrient_deficiency",
+    "symptoms": ["yellowing", "stunted growth", "pale leaves"],
+    "satellite_signal": "stable or slow growth",
+    "soil_signal": "nitrogen low",
+    "rainfall_signal": "any",
+    "recommendation": "Apply CAN fertilizer at 50kg/acre",
+    "organic_option": "Apply well-rotted manure or compost",
+    "cost_saving": "Prevents yield loss of up to 30%"
+  },
+  {
+    "id": "pp_001",
+    "cause": "pest_pressure",
+    "symptoms": ["holes in leaves", "white powder on leaves", "brown patches", "patches"],
+    "satellite_signal": "patchy anomalies",
+    "soil_signal": "any",
+    "rainfall_signal": "any",
+    "recommendation": "Scout for stem borers and apply recommended systemic pesticide if threshold exceeded",
+    "organic_option": "Release Trichogramma wasps",
+    "cost_saving": "Prevents crop devastation — saves potential total loss"
+  },
+  {
+    "id": "ws_002",
+    "cause": "water_stress",
+    "symptoms": ["stunted growth", "drying leaves"],
+    "satellite_signal": "rapid decline",
+    "soil_signal": "sandy texture",
+    "rainfall_signal": "gap > 14 days",
+    "recommendation": "Emergency irrigation required",
+    "organic_option": "Heavy mulching",
+    "cost_saving": "Saves crop from irreversible wilting point"
+  },
+  {
+    "id": "nd_002",
+    "cause": "nutrient_deficiency",
+    "symptoms": ["purplish leaves", "dark green but stunted"],
+    "satellite_signal": "below average NDVI",
+    "soil_signal": "phosphorus low",
+    "rainfall_signal": "any",
+    "recommendation": "Apply DAP fertilizer near roots",
+    "organic_option": "Apply bone meal or rock phosphate",
+    "cost_saving": "Ensures proper root development early in season"
+  }
+]
