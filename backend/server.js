@@ -21,9 +21,9 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use('/fields', fieldsRouter);
-app.use('/diagnose', diagnoseRouter);
-app.use('/sms', smsRouter);
+app.use('/api/fields', fieldsRouter);
+app.use('/api/diagnose', diagnoseRouter);
+app.use('/api/sms', smsRouter);
 
 // Health check endpoint
 app.get('/health', (req, res) => {
